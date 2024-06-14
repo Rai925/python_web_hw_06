@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "hw-web-06"
+version = "0.1.0"
+description = ""
+authors = ["Rai <154880397+Rai925@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+faker = "^25.8.0"
+black = "^24.4.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
